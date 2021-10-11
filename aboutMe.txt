@@ -2,3 +2,4 @@ Name: Adrian Ramirez
 Major: Web Design and Engineering
 Year: Senior
 Hobbies: I like to watch Netflix and chill with my doge
+List of Courses: COEN174, COEN20, COEN194, SCTR128
